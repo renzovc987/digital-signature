@@ -1,0 +1,26 @@
+# Entornos virtuales
+env/
+.venv/
+venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de certificados y claves privadas
+*.pem
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos de firmas o documentos firmados
+document_signed.pdf
+signature
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
